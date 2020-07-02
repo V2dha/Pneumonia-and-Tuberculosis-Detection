@@ -8,7 +8,7 @@ Pneumonia and Tuberculosis are one of the major causes of deaths among children 
 <h3> Pneumonia </h3>
 
 <h3> Classification Report </h3>
-![Classification Report](/Pneumonia/Precision_Recall.png)
+<img src="Pneumonia/Precision_Recall.png" width="500">
 
 <h3> Confusion Matrix </h3>
 <img src="Pneumonia/CM.png" width="500">
@@ -19,7 +19,7 @@ Pneumonia and Tuberculosis are one of the major causes of deaths among children 
 
 <h3> Tuberculosis </h3>
 <h3> Classification Report </h3>
-![Classification Report](Tuberculosis/precision.png)
+<img src="Tuberculosis/precision.png" width="500">
 
 <h3> Confusion Matrix </h3>
 <img src="Tuberculosis/CM[3051].png" width="500">
