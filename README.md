@@ -5,24 +5,23 @@ Pneumonia and Tuberculosis are one of the major causes of deaths among children 
 <h2> Results </h2>
 
 <h3> Classification Report </h3>
-<img src="Tuberculosis/precision.png" width="500"> <img src="Pneumonia/Precision_Recall.png" width="500">
+<h4> For Pneumonia </h4>
+<img src="Pneumonia/Precision_Recall.png" width="500"> 
+<h4> For Tuberculosis </h4>
+<img src="Tuberculosis/precision.png" width="500">
 
 <h3> Confusion Matrix </h3>
-<img src="Tuberculosis/CM[3051].png" width="500"> <img src="Pneumonia/CM.png" width="500">
-
-<h3> ROC Curve </h3>
-<img src="Tuberculosis/ROC.png" width="500> <img src="Pneumonia/ROC.png" width="500>
-
-<h3> For Pneumonia </h3>
-
-<h3> Classification Report </h3>
-<img src="Pneumonia/Precision_Recall.png" width="500">
-
-<h3> Confusion Matrix </h3>
+<h4> For Pneumonia </h4>
+<img src="Tuberculosis/CM[3051].png" width="500">
+<h4> For Tuberculosis </h4>
 <img src="Pneumonia/CM.png" width="500">
 
 <h3> ROC Curve </h3>
-<img src="Pneumonia/ROC.png" width="500>
+<h4> For Pneumonia </h4>
+<img src="Pneumonia/ROC.png" width="500">                                 
+<h4> For Tuberculosis </h4>                               
+<img src="Tuberculosis/ROC.png" width="500"> 
+
 
 
 
