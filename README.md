@@ -5,7 +5,7 @@ Pneumonia and Tuberculosis are one of the major causes of deaths among children 
 <h2> Results </h2>
 
 
-<h3> Pneumonia </h3>
+<h3> For Pneumonia </h3>
 
 <h3> Classification Report </h3>
 <img src="Pneumonia/Precision_Recall.png" width="500">
@@ -14,10 +14,11 @@ Pneumonia and Tuberculosis are one of the major causes of deaths among children 
 <img src="Pneumonia/CM.png" width="500">
 
 <h3> ROC Curve </h3>
-<img src="Pneumonia/ROC.png" width="500
+<img src="Pneumonia/ROC.png" width="500>
 
 
-<h3> Tuberculosis </h3>
+<h3> For Tuberculosis </h3>
+
 <h3> Classification Report </h3>
 <img src="Tuberculosis/precision.png" width="500">
 
